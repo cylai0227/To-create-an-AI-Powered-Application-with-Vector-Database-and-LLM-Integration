@@ -3,7 +3,7 @@
 This repository contains code for a Semantic Search Engine built using Streamlit and OpenAI's GPT (Generative Pre-trained Transformer) model. The application allows users to input a natural language query, which is then used to search through a collection of academic papers. The relevance of each paper to the query is determined using OpenAI's GPT model.  
 
 # How it Works  
-## User Interface  
+** User Interface ** 
 The user interface is developed using Streamlit, a Python library for building interactive web applications.  
 Users can input their queries in natural language through a text input field.  
 Upon clicking the "Search" button, the application initiates the search process.  
