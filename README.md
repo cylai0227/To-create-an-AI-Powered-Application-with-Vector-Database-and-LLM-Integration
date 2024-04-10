@@ -9,7 +9,7 @@ Users can input their queries in natural language through a text input field.
 Upon clicking the "Search" button, the application initiates the search process.  
 
 **Backend Logic**  
-The application utilizes a collection of dummy academic papers, each represented by a title, authors, and an abstract.  
+The application utilizes a collection of academic papers, each represented by a title, authors, and an abstract.  
 For each paper in the collection, the abstract is combined with the user's query to form a prompt.  
 This prompt is then passed to OpenAI's GPT model for semantic analysis.  
 The model generates a relevance score (logit) indicating the likelihood of the paper being relevant to the query.  
