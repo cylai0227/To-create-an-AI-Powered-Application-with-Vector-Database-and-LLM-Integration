@@ -21,7 +21,7 @@ OpenAI Python Library: Utilized for interfacing with OpenAI's GPT model.
 
 **Usage**  
 Clone the repository to your local machine.  
-Install the required dependencies using pip install -r requirements.txt.  
+Install the required dependencies using **pip install -r requirements.txt**  
 Set up your OpenAI API key in the code.  
-Run the application using streamlit run search_engine_research_paper.py.  
+Run the application using **streamlit run search_engine_research_paper.py**  
 Input your query and click the "Search" button to see the search results.  
